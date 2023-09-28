@@ -23,10 +23,10 @@ class Program
         Console.ReadKey();
         Console.Clear();
 
-        Ejercicio02();
+        Ejercicio02y03();
     }
 
-    static void Ejercicio02()
+    static void Ejercicio02y03()
     {
         char opcion;
         do
